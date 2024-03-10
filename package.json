@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@mdi/js": "7.4.47",
+    "@sentry/vue": "^7.106.0",
     "vue": "3.4.20",
     "vue-router": "4.3.0"
   },
